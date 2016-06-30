@@ -912,7 +912,7 @@ ul.portfolio-image li .desc{
   width: 100%;
 }
 .bg-about {
-  background: url('../images/reza.jpg');
+  background: url('../images/roni.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1262,3 +1262,13 @@ ul.portfolio-image li .desc{
 }
 .skillst .count-bar .count { background-color: #818181;}
 .skillst .count-bar .count span:after { border-top: 4px solid #818181;}
+
+.for-sticky {
+  display: table;
+  height: inherit;
+}
+
+.for-sticky .logo {
+  display: table-cell;
+  vertical-align: middle;
+}

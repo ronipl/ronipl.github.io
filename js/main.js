@@ -90,11 +90,11 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["My Name is Roni", "I'm a Web Frontend Web Developer"],   
+        strings: ["My Name is Roni Pinili", "I'm a Web Developer"],   
         typeSpeed: 100,
         backDelay: 900,
         // loop
-        loop: true
+        loop: true    
     });
 
     //owl carousel
