@@ -510,7 +510,8 @@ p {
   height: 100%;
   width: 100%;
   display: block;
- background-position:0px -380px; 
+ background-position:0px 0px;
+ background-repeat:no-repeat;
 }
 .wrap-hero-content{
   width: 100%;
