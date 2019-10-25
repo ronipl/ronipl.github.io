@@ -847,6 +847,10 @@ ul.portfolio-image li .desc{
   /*width: 133px;*/
   height: 133px;
 }
+
+.img-circle {
+    border-radius: 0px !important;
+}
 .grid-item .wrap-article .fancy {
   line-height: 0.5;
   text-align: center;
