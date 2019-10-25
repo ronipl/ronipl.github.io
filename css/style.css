@@ -844,7 +844,7 @@ ul.portfolio-image li .desc{
   margin: 0 auto;
 }
 .grid-item .wrap-article .img-circle {
-  width: 133px;
+  /*width: 133px;*/
   height: 133px;
 }
 .grid-item .wrap-article .fancy {
