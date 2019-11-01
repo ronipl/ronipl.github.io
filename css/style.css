@@ -201,7 +201,7 @@ img { max-width: 100%; }
   left: 0;
   border-bottom: 1px solid #f1f1f1;
   display: block;
-  padding: 0px 15px 5px 15px;
+  /* padding: 0px 15px 5px 15px; */
   background: #ffffff;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
